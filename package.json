@@ -1,0 +1,9 @@
+{
+  "name": "fanta-f1-live-proxy",
+  "version": "1.0.0",
+  "description": "F1 LiveTiming SignalR proxy per Fanta F1 2026",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
